@@ -1,8 +1,8 @@
 # login-form
 
-In this project i used async concepts.
+In this project i have used async concepts.
 
 - Callback
--Promise
--async 
--await
+- Promise
+- async 
+- await
